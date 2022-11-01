@@ -7,8 +7,9 @@ I am a second-year MSPPM student of Heinz College. I love data, and I am taking 
 How to make data visulaization a works of art. After graduation, I wants to find a data-related job, such as data sCancel changescientist.
 # Portfolio
 It's where I begin and I will make a huge progress from now!
-## Assignment 2
+## In class exercise
 <div class="flourish-embed flourish-chart" data-src="visualisation/11662130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Assignment 2
 ## Assignment 3
 ## Assignment 4
 ## Final Project
