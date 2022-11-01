@@ -8,6 +8,7 @@ How to make data visulaization a works of art. After graduation, I wants to find
 # Portfolio
 It's where I begin and I will make a huge progress from now!
 ## Assignment 2
+<div class="flourish-embed flourish-chart" data-src="visualisation/11662130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Assignment 3
 ## Assignment 4
 ## Final Project
