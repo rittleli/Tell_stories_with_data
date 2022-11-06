@@ -8,9 +8,9 @@ How to make data visulaization a works of art. After graduation, I wants to find
 # Portfolio
 It's where I begin and I will make a huge progress from now!
 ## In class exercise
-(/assignmentinclass.md)
+[a small example using flourish in class](/assignmentinclass.md)
 ## Assignment 2
-[some text here](/dataviz2.md)
+[the second assignment: data visualization](/datavisualization.md)
 ## Assignment 3
 ## Assignment 4
 ## Final Project
