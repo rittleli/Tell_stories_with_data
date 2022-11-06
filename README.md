@@ -10,7 +10,7 @@ It's where I begin and I will make a huge progress from now!
 ## In class exercise
 <div class="flourish-embed flourish-chart" data-src="visualisation/11662130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Assignment 2
-Data visualization (/dataviz2.md)
+Data visualization (/datavisualization2.md)
 ## Assignment 3
 ## Assignment 4
 ## Final Project
