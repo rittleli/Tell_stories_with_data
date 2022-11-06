@@ -10,7 +10,7 @@ It's where I begin and I will make a huge progress from now!
 ## In class exercise
 [a small example using flourish in class](/assignmentinclass.md)
 ## Assignment 2
-[the second assignment: data visualization](/datavisualization.md)
+[the second assignment: data visualization](/datavisualization2.md)
 ## Assignment 3
 ## Assignment 4
 ## Final Project
