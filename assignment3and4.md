@@ -1,6 +1,6 @@
 # Original data visualization
 <p>
-    <img src="Screenshot 2022-11-14 190825.png" />
+    <img src="./Screenshot 2022-11-14 190825.png" />
 </p>
 
 This figure is tring to show the global cost of renewable power generation's change between 2010 and 2020. It includes all the information needed, but it still makes readers confused.
@@ -14,7 +14,7 @@ The second thing I will use a better way to illustrate the X axis. It is very co
 Third, I may use a different graph. For example, histogram. Histogram may be more useful to show readers the quantity. But there are many sorts of histograms, I choose two of them and draw the sketches as follows:<br>
 # sketch out a solution and feedback from others
 <p>
-    <img src="sketch1.png" />
+    <img src="./sketch1.png" />
 </p>
 
 In this sketch, I tried to use two colours to represent the two years, and use different energies as X-axis. I also try to use a more straightforward title. Since I believe my audience should be those who are interested in investing new energy power plants, I directly put the title as the two energy whose cost dropped most significantly. I also use a sequence from the largest drop of cost to the smallest drop( or even increase). I choose the two colours randomly, I am not sure which colour pattern should be the best. I asked a few friends the following questions: " Can you understand this figure?" "Which part do you like best?" "Is there anything makes you feel confused?" "Do you think there is anything cna be improved?"<br>
@@ -30,7 +30,7 @@ Student C(from MISM) "I can understand this figure. The first one is much better
 Group from class "It is beautiful and it clearly conveys the necessary information. It is a little confusing of the unit of the Y-axis, does it in dollar or cents? "Adding a label will definitely make the figure more clear." "Maybe you can try to use an overlapped between the two years to show the change part. Or, but there are also some energies have the cost increase, then overlapping may be a little confusing."<br>
 <br>
 <p>
-    <img src="sketch2.png" />
+    <img src="./sketch2.png" />
 </p>
 In this sketch, I tried to put all the 2010 data points on the left, and all the 2020 data points on the right. By dividing the two years, I hope it can help readers better compare between different energies. I choose to use grey as the colour, because here I don't want to make a conclusion for readers, I am expecting they will get their own conlcusion by comparing different energies.<br>
 <br>
