@@ -11,6 +11,7 @@ It's where I begin and I will make a huge progress from now!
 [a small example using flourish in class](/assignmentinclass.md)
 ## Assignment 2
 [the second assignment: data visualization](/datavisualization2.md)
-## Assignment 3
+## Assignment 3 & 4
+[the third and fourth assignment:  Critique by Design](/assignment34.md)
 ## Assignment 4
 ## Final Project
