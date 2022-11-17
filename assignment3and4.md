@@ -1,5 +1,7 @@
 # Original data visualization
-![ScreenShot](/Screenshot%202022-11-14%20190825.png)
+<p>
+    <img src="Screenshot 2022-11-14 190825.png" width="220" height="240" />
+</p>
 
 This figure is tring to show the global cost of renewable power generation's change between 2010 and 2020. It includes all the information needed, but it still makes readers confused.
 # Why this figure is confusing
@@ -11,7 +13,10 @@ First, I will remove the percentile, while it may be important in statistics, it
 The second thing I will use a better way to illustrate the X axis. It is very confusing now, so I want to put the new energy names as the X axis, while use two different colors to show 2010 and 2020 respectively.<br>
 Third, I may use a different graph. For example, histogram. Histogram may be more useful to show readers the quantity. But there are many sorts of histograms, I choose two of them and draw the sketches as follows:<br>
 # sketch out a solution and feedback from others
-![ScreenShot](/sketch1.png)
+<p>
+    <img src="sketch1.png" width="220" height="240" />
+</p>
+
 In this sketch, I tried to use two colours to represent the two years, and use different energies as X-axis. I also try to use a more straightforward title. Since I believe my audience should be those who are interested in investing new energy power plants, I directly put the title as the two energy whose cost dropped most significantly. I also use a sequence from the largest drop of cost to the smallest drop( or even increase). I choose the two colours randomly, I am not sure which colour pattern should be the best. I asked a few friends the following questions: " Can you understand this figure?" "Which part do you like best?" "Is there anything makes you feel confused?" "Do you think there is anything cna be improved?"<br>
 <br>
 Below is feedback from my three friends and feedback from in-class group discussion.<br>
