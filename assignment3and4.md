@@ -38,13 +38,13 @@ Student C(from MISM) " Figure two is much worse than the first one, it is not su
 <br>
 Group from class "No! This one is much more terrible than the former one."<br>
 # Conlusion from feedback
-1) I decied to use and improve figure one. One reason is that the story I want to tell is about the change over time, not the difference between energies. So figure one can help me better realize this function. All the viewers agree that figure one is more clear.<br>
+1)I decied to use and improve figure one. One reason is that the story I want to tell is about the change over time, not the difference between energies. So figure one can help me better realize this function. All the viewers agree that figure one is more clear.<br>
 <br>
-2) Two viewers suggest that a better title is needed. Thus I will use a title that include all the data shown, and use a subtitle to try to make my readers focused on the two energies that have the largest changes.<br><br>
-3) Two viewers suggest labels is necessary, so I will add labels to show each quantity.<br><br>
-4) The Y axis need a more clear units. So I change the Y-units to be US dollar/kwh, which may be more clear to readers. <br><br>
-5) Two viwers think it will be better to add something to represent its change. I try to add it, but I find after adding it, it will make the whole figure a little confusing. When we try to represent percentage and values in the same figure, it will make people don't know which one fo focuse on. And, the qunatity of change is large enough to show people the degree of cost drop<br><br>
-6) I will keep the color pattern, because one viewer thinks the colour pattern is beautiful!
+2)Two viewers suggest that a better title is needed. Thus I will use a title that include all the data shown, and use a subtitle to try to make my readers focused on the two energies that have the largest changes.<br><br>
+3)Two viewers suggest labels is necessary, so I will add labels to show each quantity.<br><br>
+4)The Y axis need a more clear units. So I change the Y-units to be US dollar/kwh, which may be more clear to readers. <br><br>
+5)Two viwers think it will be better to add something to represent its change. I try to add it, but I find after adding it, it will make the whole figure a little confusing. When we try to represent percentage and values in the same figure, it will make people don't know which one fo focuse on. And, the qunatity of change is large enough to show people the degree of cost drop<br><br>
+6)I will keep the color pattern, because one viewer thinks the colour pattern is beautiful!
 # Final work
 <div class="flourish-embed flourish-chart" data-src="visualisation/11850786"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
