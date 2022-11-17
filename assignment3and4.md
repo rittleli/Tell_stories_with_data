@@ -29,7 +29,9 @@ Student C(from MISM) "I can understand this figure. The first one is much better
 <br>
 Group from class "It is beautiful and it clearly conveys the necessary information. It is a little confusing of the unit of the Y-axis, does it in dollar or cents? "Adding a label will definitely make the figure more clear." "Maybe you can try to use an overlapped between the two years to show the change part. Or, but there are also some energies have the cost increase, then overlapping may be a little confusing."<br>
 <br>
-![ScreenShot](https://github.com/rittleli/portfolio/blob/main/sketch2.png)
+<p>
+    <img src="sketch2.png" />
+</p>
 In this sketch, I tried to put all the 2010 data points on the left, and all the 2020 data points on the right. By dividing the two years, I hope it can help readers better compare between different energies. I choose to use grey as the colour, because here I don't want to make a conclusion for readers, I am expecting they will get their own conlcusion by comparing different energies.<br>
 <br>
 Below is feedback from my three friends and feedback from in-class group discussion.<br>
