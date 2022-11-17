@@ -1,6 +1,6 @@
 # Original data visualization
 <p>
-    <img src="./original.png" />
+    <img src="./orginal.png" />
 </p>
 
 This figure is tring to show the global cost of renewable power generation's change between 2010 and 2020. It includes all the information needed, but it still makes readers confused.
