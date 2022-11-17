@@ -13,5 +13,5 @@ It's where I begin and I will make a huge progress from now!
 [the second assignment: data visualization](/datavisualization2.md)
 ## Assignment 3 & 4
 [the third and fourth assignment:  Critique by Design](/assignment3and4.md)
-## Assignment 4
+
 ## Final Project
