@@ -5,6 +5,10 @@
 2. It has a confusing range of color for each new power generation technologies, later I realized it is the 5th percentile to the 95th percentile. While 5th percentile and 95th percentile may be important in statistics, it is useless here. The whole report didn't use 5th percentile and 95th percentile, it only focuses on mean. <br>
 3. It is also confusing by adding another range of fossil fuel cost range, which overlapped with much of the areas of each new energy. <br>
 # sketch out a solution and feedback from others
+![alt text](https://github.com/rittleli/portfolio/blob/main/sketch1.png)
+
+![alt text](https://github.com/rittleli/portfolio/blob/main/sketch2.png)
+
 
 
 
