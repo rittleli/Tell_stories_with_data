@@ -1,21 +1,32 @@
 # Part 1
 # Outline for project
-I want to tell a story about pandas. Pandas are not only cute, but also widely adored by people all over the world. In fact, as a symbol of China, pandas are widely used in diplomacy policy as a bridge to communicate with other countries. "Panda diplomacy" describes this situation. In today's world, there are constant disputes among people and countries, and it is difficult to get an answer to many ideological differences in a short period of time. But at least, on pandas, the attitudes of people all over the world are highly consistent. People like his cute naivety, and also like his peace and friendliness. So, by telling the story of the panda, I want to make people stop and think about what can become a way of communication between different nations. Pandas have given us an excellent answer. <br>
+I want to tell a story about pandas. Pandas are not only cute, but also widely adored by people all over the world. In fact, as a symbol of China, pandas are widely used in diplomacy policy as a bridge to communicate with other countries. "Panda diplomacy" describes this situation. In today's world, there are constant disputes among people and countries, and it is difficult to get an answer to many ideological differences in a short period of time. But at least, on pandas, the attitudes of people all over the world are highly consistent. People like his cute naivety, and also like his peace and friendliness. So, by telling the story of the panda, I want to make people stop and think about what can become a way of communication between different nations. Pandas have given us an excellent answer. They may not be strong enough to defeat the huge devisions, but if we keep finding "pandas", the situation will beomce better.<br>
 <br>
 Story Structure<br>
-Setup: Pandas are widely adored by people from all over the world. Under proper protection, their population is rising over the past 50 years.<br>
+Setup: Pandas are widely adored by people from all over the world. <br>
 <br>
 Conflict: In today's world, differences between nations and nations are widespread and difficult to reconcile.<br>
 <br>
-Resolution: "Panda Diplomacy" can be an excellent example for reference. For people from different countries, there must be some common love shared by people. We can use this as a breakthrough to build a brigde for communication.
+Resolution: "Panda Diplomacy" can be an excellent example for reference. For people from different countries, there must be some common love shared by people. We can use this as a breakthrough to build a brigde for communication. <br>
+<br>
+Result: Although "Panda Diplomacy" has some effects, it is too weak when confronting geopolitical conflict and competition.
+
 # Sketch
 1)
+<p>
+    <img src="./sketch_project_1.png" />
+</p>
+I use a column chart here to show how people welcome pandas. I use red to show the specific time after panda arrives Memphis Zoo, and try to show the change before and after this certain event. 
 2) 
 <p>
     <img src="./sketch_project.png" />
 </p>
-I am using a world map here to show the number of pandas outside China in one certain year. I will use similar maps to show number of pandas outside China in several years to present the change over time.
-
+I am using a world map here to show the number of pandas outside China in one certain year. I will use similar maps to show number of pandas outside China in several years to present the change over time. I will also use the similar map to show the countries that has diplomatic relationships with China to compare them with the coutries have pandas as gift from China. I try to use to show "panda diplomacy" do have a implication at the early stage.<br>
+3)
+<p>
+    <img src="./sketch_project_2.png" />
+</p>
+I am using a line chart here to show the trend of people from countries which owns the most pandas given by China. Although people loves panda, but when it comes to ideological divisions and economic competition, "Panda Diplomacy" is too weak to change people's attitude towards China. 
 # Data Source
 1. [Data of how people love and accept pandas](https://go-gale-com.cmu.idm.oclc.org/ps/i.do?id=GALE%7CA126612060&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=08963703&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=cmu_main&u=cmu_main). Here I use a data from University of Memphis in 2004 done by Jeff Wallace and Andrea Orchik. They include an "Impact of Giant Pandas on Memphis Zoo Attendance" which shows an siginificant increase in 2002 when giant pandas come. <br>
 2. [Data on when China establish diplomatic relations with other countries](https://www.fmprc.gov.cn/web/ziliao_674904/2193_674977/200812/t20081221_9284708.shtml) Here is a list of the time China establish relationship with other countries. I want to use this list to compare with a list of the time China giving or renting pandas to other countries. [Pandas outside China](https://en.wikipedia.org/wiki/Giant_pandas_around_the_world) Unfortunately, I couldn't find more detailed information of this, I may need to type it into a list which can be used.<br>
