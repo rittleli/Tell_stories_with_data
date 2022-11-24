@@ -27,6 +27,7 @@ I am using a world map here to show the number of pandas outside China in one ce
     <img src="./sketch_project_2.png" />
 </p>
 I am using a line chart here to show the trend of people from countries which owns the most pandas given by China. Although people loves panda, but when it comes to ideological divisions and economic competition, "Panda Diplomacy" is too weak to change people's attitude towards China. 
+<br>
 # Data Source
 1. [Data of how people love and accept pandas](https://go-gale-com.cmu.idm.oclc.org/ps/i.do?id=GALE%7CA126612060&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=08963703&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=cmu_main&u=cmu_main). Here I use a data from University of Memphis in 2004 done by Jeff Wallace and Andrea Orchik. They include an "Impact of Giant Pandas on Memphis Zoo Attendance" which shows an siginificant increase in 2002 when giant pandas come. <br>
 2. [Data on when China establish diplomatic relations with other countries](https://www.fmprc.gov.cn/web/ziliao_674904/2193_674977/200812/t20081221_9284708.shtml) Here is a list of the time China establish relationship with other countries. I want to use this list to compare with a list of the time China giving or renting pandas to other countries. [Pandas outside China](https://en.wikipedia.org/wiki/Giant_pandas_around_the_world) Unfortunately, I couldn't find more detailed information of this, I may need to type it into a list which can be used.<br>
