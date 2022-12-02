@@ -74,6 +74,10 @@ I am trying my best to tell a story about peace and love, but data is limited an
 | 4. What would you change? Any suggestions for improvement? |I want to combine the two maps together overlapped to better compare them. And you can use the number of the countries next to the figure to better illustrate your outcome. Use different colours to represent if a country has diplomacy with China/ if it has pandas/ if it has pandas as well as diplomacy relationship.|I would suggest change the two maps' location, I will scan from left to right, and thus I will think you should put the more important part at the left. The alluvial graph, can you put "no" at the bottom, and put the rest part together.|abc|
 | 5. What do you want to know further after my presentation? What made you curious?    | Other metrics of pandas and zoos, I still want to know how we can make sure it is because of pandas.|I can't think of any currently, it is a complete story from my perspective.|abc|
 
-<br>
+# Conclusion
+
+# Plan of changes
+
+
 
 [Back to main page](/README.md)
