@@ -88,6 +88,6 @@ I am trying my best to tell a story about peace and love, but data is limited an
 |    | Can Contribute to my project | Really Important and Valuable|
 | ----------- | ----------- |----------- |
 |Easily implemented     | 1. Change the title into "A successful bridge for communication or a failing political tool"| 1. Change my alluvial graph since it will make professional confusing. Instead use a scatter plot. 2. Add Conclusion to make the whole story more smooth.|
-|Difficult implemented      | | 1. Combine the two maps together, use a colour as a complementary for the pandas icon. 2. Find more data for why pandas are popular and create more realted data visuals (This part is really hard, I spent almost a whole day try to find related data, but find litte about it).
+|Difficult implemented      |None | 1. Combine the two maps together, use a colour as a complementary for the pandas icon. 2. Find more data for why pandas are popular and create more realted data visuals (This part is really hard, I spent almost a whole day try to find related data, but find litte about it).
 
 [Back to main page](/README.md)
