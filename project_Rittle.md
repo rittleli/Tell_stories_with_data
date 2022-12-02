@@ -52,17 +52,19 @@ I am trying my best to tell a story about peace and love, but data is limited an
 | 1. Which part is the most beautiful/attractive?     | I want to know which part is the most successful, so I may use the experience in other parts.       |
 | 2. What do you think is the purpose of this presentation?   | I want to know if my figures and words are straightforward enough for first-time readers, we only have one minute, and that's why I want to fully utilize the time.        |
 | 3. What do you feel confusing about?   | I want to know if I have made everything clear, is there anything needs to further explained?      |
-| 4. What would you change? Any suggestions for improvement?    | I want to know readers' opinions that will make them more comfortable, and I will use them as advice to better improve my presentation.       |
+| 4. What would you change? Any suggestions for improvement?   | I want to know readers' opinions that will make them more comfortable, and I will use them as advice to better improve my presentation.       |
 | 5. What do you want to know further after my presentation? What made you curious?    | I want to know if there is any new topics can be further investigated.       |
 
-**Interview Script**
+# Interview Script**
+**How is it used?** I will first ask my respondents to go over my wireframes, and ask them the first three questions to check the advantage and disadvantage of my draft. And then I will go over it as I am presenting, and ask them question 4 and question 5, to get more advice and suggestions to finetune my project.
+
 | Question      | Student 1 from energy and policy engineering | Student 2 from INI| Student 3 from MISM|
 | ----------- | ----------- |----------- |----------- |
-| 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |abc|abc|
-| 2. What do you think is the purpose of this presentation?   | Its a objective representation of a factual outcome, that's it.|abc|abc|
-| 3. What do you feel confusing about?   | For the first figure about attendance of Memphis Zoo, is the increase of attendance are really because of pandas, or other factors? For the two maps, I can't tell which countries that has pandas and has diplomacy relationships with China at the same time. The countries with small area size, I can't see very clearly which country has pandas.|abc|abc|
-| 4. What would you change? Any suggestions for improvement? |I want to combine the two maps together overlapped to better compare them. And you can use the number of the countries next to the figure to better illustrate your outcome. Use different colours to represent if a country has diplomacy with China/ if it has pandas/ if it has pandas as well as diplomacy relationship.|abc|abc|
-| 5. What do you want to know further after my presentation? What made you curious?    | Other metrics of pandas and zoos, I still want to know how we can make sure it is because of pandas.|abc|abc|
+| 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |The alluvial graph. It is cool and it could be perfect if given a tiny change. |abc|
+| 2. What do you think is the purpose of this presentation?   | Its a objective representation of a factual outcome, that's it.|I am not sure about the purpose, it is just a story about "panda diplomacy" |abc|
+| 3. What do you feel confused about?   | For the first figure about attendance of Memphis Zoo, is the increase of attendance are really because of pandas, or other factors? For the two maps, I can't tell which countries that has pandas and has diplomacy relationships with China at the same time. The countries with small area size, I can't see very clearly which country has pandas.|There is not a conflusion in the end, it is just a combination of facts. The first figure may not be able to fully represent that pandas are popular, there may be other reasons.|abc|
+| 4. What would you change? Any suggestions for improvement? |I want to combine the two maps together overlapped to better compare them. And you can use the number of the countries next to the figure to better illustrate your outcome. Use different colours to represent if a country has diplomacy with China/ if it has pandas/ if it has pandas as well as diplomacy relationship.|I would suggest change the two maps' location, I will scan from left to right, and thus I will think you should put the more important part at the left. The alluvial graph, can you put "no" at the bottom, and put the rest part together.|abc|
+| 5. What do you want to know further after my presentation? What made you curious?    | Other metrics of pandas and zoos, I still want to know how we can make sure it is because of pandas.|I can't think of any currently, it is a complete story from my perspective.|abc|
 
 <br>
 
