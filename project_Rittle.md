@@ -42,15 +42,12 @@ I am trying my best to tell a story about peace and love, but data is limited an
 <br>
 # Part 2
 # Wireframes
-<p>
-    [Check my draft wireframes here!](/draft.pdf)
-</p>
-
+[Check my draft wireframes here!](/draft.pdf)
 # User Research Protocol
 **Target Audience:** Policy Students who wants to contribute to diplomacy and policy decision-makers reatled to diplomacy
 **Approach to indentifying representative individuals to interview:** Due to the limit of time, I can only reach to my friends. So I choose my three friends with policy; business and technology background, to find out what people from these backrgounds may think of my project.
 **Interview Question Purpose**
-| Question      | Purpose |
+| Question     | Purpose |
 | ----------- | ----------- |
 | 1. Which part is the most beautiful/attractive?     | I want to know which part is the most successful, so I may use the experience in other parts.       |
 | 2. What do you think is the purpose of this presentation?   | I want to know if my figures and words are straightforward enough for first-time readers, we only have one minute, and that's why I want to fully utilize the time.        |
