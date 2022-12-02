@@ -54,7 +54,9 @@ I am trying my best to tell a story about peace and love, but data is limited an
 | 3. What do you feel confusing about?   | I want to know if I have made everything clear, is there anything needs to further explained?      |
 | 4. What would you change? Any suggestions for improvement?    | I want to know readers' opinions that will make them more comfortable, and I will use them as advice to better improve my presentation.       |
 | 5. What do you want to know further after my presentation? What made you curious?    | I want to know if there is any new topics can be further investigated.       |
-| Question      | Student 1 from energy and policy engineering |
+<br>
+**Interview Script**
+| Question      | Student 1 from energy and policy engineering | Student 2 from INI| Student 3 from MISM|
 | ----------- | ----------- |----------- |----------- |
 | 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |
 | 2. What do you think is the purpose of this presentation?   | Its a objective representation of a factual outcome, that's it.|
