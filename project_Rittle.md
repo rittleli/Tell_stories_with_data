@@ -44,8 +44,8 @@ I am trying my best to tell a story about peace and love, but data is limited an
 # Wireframes
 [Back to main page](/README.md)
 # User Research Protocol
-**Target Audience:** Policy Students who wants to contribute to diplomacy and policy decision-makers reatled to diplomacy
-**Approach to indentifying representative individuals to interview:** Due to the limit of time, I can only reach to my friends. So I choose my three friends with policy; business and technology background, to find out what people from these backrgounds may think of my project.
+**Target Audience:** Policy Students who wants to contribute to diplomacy and policy decision-makers reatled to diplomacy<br>
+**Approach to indentifying representative individuals to interview:** Due to the limit of time, I can only reach to my friends. So I choose my three friends with policy; business and technology background, to find out what people from these backrgounds may think of my project.<br>
 **Interview Question Purpose**
 | Question     | Purpose |
 | ----------- | ----------- |
@@ -54,9 +54,9 @@ I am trying my best to tell a story about peace and love, but data is limited an
 | 3. What do you feel confusing about?   | I want to know if I have made everything clear, is there anything needs to further explained?      |
 | 4. What would you change? Any suggestions for improvement?   | I want to know readers' opinions that will make them more comfortable, and I will use them as advice to better improve my presentation.       |
 | 5. What do you want to know further after my presentation? What made you curious?    | I want to know if there is any new topics can be further investigated.       |
-# Interview Script
-**How is it used?** I will first ask my respondents to go over my wireframes, and ask them the first three questions to check the advantage and disadvantage of my draft. And then I will go over it as I am presenting, and ask them question 4 and question 5, to get more advice and suggestions to finetune my project.
 
+**How is it used?** I will first ask my respondents to go over my wireframes, and ask them the first three questions to check the advantage and disadvantage of my draft. And then I will go over it as I am presenting, and ask them question 4 and question 5, to get more advice and suggestions to finetune my project.
+**Interview script**
 | Question      | Student 1 from energy and policy engineering | Student 2 from INI| Student 3 from MISM|
 | ----------- | ----------- |----------- |----------- |
 | 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |The alluvial graph. It is cool and it could be perfect if given a tiny change. |abc|
