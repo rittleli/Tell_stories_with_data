@@ -42,7 +42,7 @@ I am trying my best to tell a story about peace and love, but data is limited an
 <br>
 # Part 2
 # Wireframes
-[Check my draft wireframes here!](/draft.pdf)
+[Back to main page](/README.md)
 # User Research Protocol
 **Target Audience:** Policy Students who wants to contribute to diplomacy and policy decision-makers reatled to diplomacy
 **Approach to indentifying representative individuals to interview:** Due to the limit of time, I can only reach to my friends. So I choose my three friends with policy; business and technology background, to find out what people from these backrgounds may think of my project.
