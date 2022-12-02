@@ -58,11 +58,11 @@ I am trying my best to tell a story about peace and love, but data is limited an
 **Interview Script**
 | Question      | Student 1 from energy and policy engineering | Student 2 from INI| Student 3 from MISM|
 | ----------- | ----------- |----------- |----------- |
-| 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |
-| 2. What do you think is the purpose of this presentation?   | Its a objective representation of a factual outcome, that's it.|
-| 3. What do you feel confusing about?   | For the first figure about attendance of Memphis Zoo, is the increase of attendance are really because of pandas, or other factors? For the two maps, I can't tell which countries that has pandas and has diplomacy relationships with China at the same time. The countries with small area size, I can't see very clearly which country has pandas.|
-| 4. What would you change? Any suggestions for improvement? |I want to combine the two maps together overlapped to better compare them. And you can use the number of the countries next to the figure to better illustrate your outcome. Use different colours to represent if a country has diplomacy with China/ if it has pandas/ if it has pandas as well as diplomacy relationship.|
-| 5. What do you want to know further after my presentation? What made you curious?    | Other metrics of pandas and zoos, I still want to know how we can make sure it is because of pandas.|
+| 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |abc|abc|
+| 2. What do you think is the purpose of this presentation?   | Its a objective representation of a factual outcome, that's it.|abc|abc|
+| 3. What do you feel confusing about?   | For the first figure about attendance of Memphis Zoo, is the increase of attendance are really because of pandas, or other factors? For the two maps, I can't tell which countries that has pandas and has diplomacy relationships with China at the same time. The countries with small area size, I can't see very clearly which country has pandas.|abc|abc|
+| 4. What would you change? Any suggestions for improvement? |I want to combine the two maps together overlapped to better compare them. And you can use the number of the countries next to the figure to better illustrate your outcome. Use different colours to represent if a country has diplomacy with China/ if it has pandas/ if it has pandas as well as diplomacy relationship.|abc|abc|
+| 5. What do you want to know further after my presentation? What made you curious?    | Other metrics of pandas and zoos, I still want to know how we can make sure it is because of pandas.|abc|abc|
 
 <br>
 
