@@ -40,24 +40,31 @@ I will use Shorthand to create my final presentation. I will use Tableau and Flo
 # Acknowledgement
 I am trying my best to tell a story about peace and love, but data is limited and it seems panda didn't bring that much understanding of people around the world to China. I may change a perspective to tell a more complete panda story due to the above reasons, but I am also thinking of leave a "bad end" for my story. In our real life, there isn't always a perfect fairy-tale ending. Maybe what we need is more "pandas" and more people willing to share thoughts through "pandas".
 <br>
+
 # Part 2
+
 # Wireframes
-[Back to main page](/README.md)
+[Check my draft wireframes here!](/draft.pdf)
+
 # User Research Protocol
+
 **Target Audience:** Policy Students who wants to contribute to diplomacy and policy decision-makers reatled to diplomacy<br>
+
 **Approach to indentifying representative individuals to interview:** Due to the limit of time, I can only reach to my friends. So I choose my three friends with policy; business and technology background, to find out what people from these backrgounds may think of my project.<br>
+
 **Interview Question Purpose**
+
 | Question     | Purpose |
 | ----------- | ----------- |
-| 1. Which part is the most beautiful/attractive?     | I want to know which part is the most successful, so I may use the experience in other parts.       |
-| 2. What do you think is the purpose of this presentation?   | I want to know if my figures and words are straightforward enough for first-time readers, we only have one minute, and that's why I want to fully utilize the time.        |
+| 1. Which part is the most beautiful/attractive? | I want to know which part is the most successful, so I may use the experience in other parts.|
+| 2. What do you think is the purpose of this presentation?   | I want to know if my figures and words are straightforward enough for first-time readers, we only have one minute, and that's why I want to fully utilize the time.|
 | 3. What do you feel confusing about?   | I want to know if I have made everything clear, is there anything needs to further explained?      |
-| 4. What would you change? Any suggestions for improvement?   | I want to know readers' opinions that will make them more comfortable, and I will use them as advice to better improve my presentation.       |
-| 5. What do you want to know further after my presentation? What made you curious?    | I want to know if there is any new topics can be further investigated.       |
+| 4. What would you change? Any suggestions for improvement?   | I want to know readers' opinions that will make them more comfortable, and I will use them as advice to better improve my presentation.|
+| 5. What do you want to know further after my presentation? What made you curious?    | I want to know if there is any new topics can be further investigated.|
 
 **How is it used?** I will first ask my respondents to go over my wireframes, and ask them the first three questions to check the advantage and disadvantage of my draft. And then I will go over it as I am presenting, and ask them question 4 and question 5, to get more advice and suggestions to finetune my project.
 **Interview script**
-| Question      | Student 1 from energy and policy engineering | Student 2 from INI| Student 3 from MISM|
+| Question     | Student 1 from energy and policy engineering | Student 2 from INI| Student 3 from MISM|
 | ----------- | ----------- |----------- |----------- |
 | 1. Which part is the most beautiful/attractive?     | The alluvial graph is fantastic and straightforward, it is a good way to represent the relationship between trade and owning of pandas. |The alluvial graph. It is cool and it could be perfect if given a tiny change. |abc|
 | 2. What do you think is the purpose of this presentation?   | Its a objective representation of a factual outcome, that's it.|I am not sure about the purpose, it is just a story about "panda diplomacy" |abc|
