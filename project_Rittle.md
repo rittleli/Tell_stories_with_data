@@ -90,4 +90,11 @@ I am trying my best to tell a story about peace and love, but data is limited an
 |Easily implemented     | 1. Change the title into "A successful bridge for communication or a failing political tool"| 1. Change my alluvial graph since it will make professional confusing. Instead use a scatter plot. 2. Add Conclusion to make the whole story more smooth.|
 |Difficult implemented      |None | 1. Combine the two maps together, use a colour as a complementary for the pandas icon. 2. Find more data for why pandas are popular and create more realted data visuals (This part is really hard, I spent almost a whole day try to find related data, but find litte about it).
 
+
+# Final Data Source
+1.[People's attitude towards China in countries that have pandas](https://www.pewresearch.org/global/database/indicator/24) It shows different countries' attitude towards China over the past 10 year.
+2.[China's biggest trade partner in 2021](https://www.worldstopexports.com/chinas-top-import-partners/)
+3.[Data of how people love and accept pandas](https://go-gale-com.cmu.idm.oclc.org/ps/i.do?id=GALE%7CA126612060&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=08963703&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=cmu_main&u=cmu_main). Here I use a data from University of Memphis in 2004 done by Jeff Wallace and Andrea Orchik. They include an "Impact of Giant Pandas on Memphis Zoo Attendance" which shows an siginificant increase in 2002 when giant pandas come. <br>
+4.[Data on when China establish diplomatic relations with other countries](https://www.fmprc.gov.cn/web/ziliao_674904/2193_674977/200812/t20081221_9284708.shtml) Here is a list of the time China establish relationship with other countries. I want to use this list to compare with a list of the time China giving or renting pandas to other countries. 
+5.[Pandas outside China](https://en.wikipedia.org/wiki/Giant_pandas_around_the_world) Unfortunately, I couldn't find more detailed information of this, I may need to type it into a list which can be used.<br>
 [Back to main page](/README.md)
