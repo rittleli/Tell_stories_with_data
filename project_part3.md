@@ -17,8 +17,10 @@ My intended audience should be those who wants to make a contribution to diploma
   I am also grateful to all my friends and professor, who gave my excellent advice on how to make my figures more clear. Professor reminds me the "rainbow effect" can make my readers confused, and my friends helped me find out the most suitable way for visualization. <br>
   <br>
   All in all, I realized data source and advice from others may be two most important things. Without convincing data, we can't put our ideas into excellent story, and without advice from readers, it will be difficult for us to find potential problems.<br>
-### My final story
+# My final story
 [Click here!](https://carnegiemellon.shorthandstories.com/panda-diplomacy/index.html)<br>
-
-### Back to main page
+# Other Parts of the project
+[Part I](/project_part1.md)<br>
+[Part III](/project_part3.md)
+# Back to main page
 [Back to main page](/README.md)
