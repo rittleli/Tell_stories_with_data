@@ -18,4 +18,4 @@ It's where I begin and I will make a huge progress from now!
 [Final Project Part I](/project_part1.md) <br>
 [Final Project Part II](/project_part2.md) <br>
 [Final Project Part III](/project_part3.md) <br>
-[Final Project: Complete Version](/project_Rittle.md)
+[Final Project: Full Story for presentation](https://carnegiemellon.shorthandstories.com/panda-diplomacy/index.html)
