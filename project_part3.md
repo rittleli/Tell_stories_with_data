@@ -19,7 +19,13 @@ My intended audience should be those who wants to make a contribution to diploma
   All in all, I realized data source and advice from others may be two most important things. Without convincing data, we can't put our ideas into excellent story, and without advice from readers, it will be difficult for us to find potential problems.<br>
 # My final story
 [Click here!](https://carnegiemellon.shorthandstories.com/panda-diplomacy/index.html)<br>
-
+# Final Data Source
+1.[People's attitude towards China in countries that have pandas](https://www.pewresearch.org/global/database/indicator/24) It shows different countries' attitude towards China over the past 10 year.
+2.[China's biggest trade partner in 2021](https://www.worldstopexports.com/chinas-top-import-partners/)
+3.[Data of how people love and accept pandas](https://go-gale-com.cmu.idm.oclc.org/ps/i.do?id=GALE%7CA126612060&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=08963703&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=cmu_main&u=cmu_main). Here I use a data from University of Memphis in 2004 done by Jeff Wallace and Andrea Orchik. They include an "Impact of Giant Pandas on Memphis Zoo Attendance" which shows an siginificant increase in 2002 when giant pandas come. <br>
+4.[Data on when China establish diplomatic relations with other countries](https://www.fmprc.gov.cn/web/ziliao_674904/2193_674977/200812/t20081221_9284708.shtml) Here is a list of the time China establish relationship with other countries. I want to use this list to compare with a list of the time China giving or renting pandas to other countries. 
+5.[Pandas outside China](https://en.wikipedia.org/wiki/Giant_pandas_around_the_world) Unfortunately, I couldn't find more detailed information of this, I may need to type it into a list which can be used.<br>
+<br>
 # Other Parts of the project
 [Part I](/project_part1.md)<br>
 [Part II](/project_part2.md)
