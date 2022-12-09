@@ -15,6 +15,6 @@ It's where I begin and I will make a huge progress from now!
 [the third and fourth assignment:  Critique by Design](/assignment3and4.md)
 
 ## Final Project
-[Final Project Part I](/project_part1.md)
-[Final Project Part II](/project_part2.md)
+[Final Project Part I](/project_part1.md) <br>
+[Final Project Part II](/project_part2.md) <br>
 [Final Project: Complete version](/project_Rittle.md)
