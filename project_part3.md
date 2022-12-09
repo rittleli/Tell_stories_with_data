@@ -19,8 +19,9 @@ My intended audience should be those who wants to make a contribution to diploma
   All in all, I realized data source and advice from others may be two most important things. Without convincing data, we can't put our ideas into excellent story, and without advice from readers, it will be difficult for us to find potential problems.<br>
 # My final story
 [Click here!](https://carnegiemellon.shorthandstories.com/panda-diplomacy/index.html)<br>
+
 # Other Parts of the project
 [Part I](/project_part1.md)<br>
-[Part III](/project_part3.md)
+[Part II](/project_part2.md)
 # Back to main page
 [Back to main page](/README.md)
