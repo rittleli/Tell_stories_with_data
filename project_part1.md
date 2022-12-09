@@ -40,3 +40,5 @@ I will use Shorthand to create my final presentation. I will use Tableau and Flo
 # Acknowledgement
 I am trying my best to tell a story about peace and love, but data is limited and it seems panda didn't bring that much understanding of people around the world to China. I may change a perspective to tell a more complete panda story due to the above reasons, but I am also thinking of leave a "bad end" for my story. In our real life, there isn't always a perfect fairy-tale ending. Maybe what we need is more "pandas" and more people willing to share thoughts through "pandas".
 <br>
+
+[Back to main page](/README.md)
